@@ -1,4 +1,4 @@
-## Analisis Sentimen Twitter dengan Selenium & TextBlob
+## Analisis Sentimen Twitter dengan Tweet-Harvest & Vader Lexicon
 
 **Deskripsi Singkat**
 Proyek ini bertujuan untuk melakukan scraping data Twitter menggunakan tweet-harvest dan menganalisis sentimen tweet menggunakan vader lexicon. Dengan proyek ini, kita bisa melihat bagaimana opini publik terhadap suatu topik tertentu.
